@@ -1,0 +1,2 @@
+6m.nmea filter=lfs diff=lfs merge=lfs -text
+6m.tsv filter=lfs diff=lfs merge=lfs -text
